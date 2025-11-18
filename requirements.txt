@@ -1,6 +1,10 @@
-pandas>=1.5.0
-numpy>=1.21.0
-scikit-learn>=1.0.0
-joblib>=1.1.0
-plotly>=5.0.0
-streamlit>=1.22.0
+flask
+tensorflow
+numpy
+opencv-python-headless
+pillow
+scikit-learn
+joblib
+xgboost
+python-dotenv
+google-genai
